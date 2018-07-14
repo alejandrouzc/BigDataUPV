@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------
+----------------------------------Ejecución R Script-----------------------------------
+---------------------------------------------------------------------------------------
+
+1. Crear directorio para la ejecución del script y descarga de archivos corpus.(Ej: pan-ap17-bigdata)
+
+2. Descargar archivo pan-ap17-ALOR.r y guardarlo en el directorio creado en el paso 1. 
+
+3. Mover carpetas test y training con los respectivos .xml y .txt al directorio creado en el paso 1.
+
+4. Abrir R Script pan-ap17-ALOR.r
+
+5. Modificar variables path_training y path_test con la ruta completa de las carpetas test y training del paso 3
